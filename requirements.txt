@@ -51,6 +51,7 @@ geopy==2.4.1
 gitdb==4.0.12
 GitPython==3.1.45
 google-adk==1.18.0
+google-ai-generativelanguage==0.6.15
 google-api-core==2.28.1
 google-api-python-client==2.187.0
 google-auth==2.43.0
@@ -72,6 +73,7 @@ google-cloud-storage==3.5.0
 google-cloud-trace==1.17.0
 google-crc32c==1.7.1
 google-genai==1.49.0
+google-generativeai==0.8.6
 google-resumable-media==2.7.2
 googleapis-common-protos==1.72.0
 graphviz==0.21
@@ -79,7 +81,7 @@ greenlet==3.2.4
 grpc-google-iam-v1==0.14.3
 grpc-interceptor==0.15.4
 grpcio==1.76.0
-grpcio-status==1.76.0
+grpcio-status==1.71.2
 h11==0.16.0
 h2==4.3.0
 hpack==4.1.0
@@ -166,7 +168,7 @@ prometheus_client==0.22.1
 prompt_toolkit==3.0.51
 propcache==0.4.1
 proto-plus==1.26.1
-protobuf==6.33.0
+protobuf==5.29.6
 psutil==7.0.0
 psycopg2-binary==2.9.11
 pure_eval==0.2.3
@@ -235,6 +237,7 @@ toml==0.10.2
 torch==2.9.1
 torchvision==0.24.1
 tornado==6.5.2
+tqdm==4.67.3
 traitlets==5.14.3
 types-python-dateutil==2.9.0.20250809
 typing-inspection==0.4.2
